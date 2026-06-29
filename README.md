@@ -54,21 +54,10 @@ The warehouse follows a Star Schema consisting of:
 
 ---
 
-## Repository Structure
+## Repository Contents
 
-```
-azure-bike-share-data-warehouse/
-│
-├── README.md
-├── Project_Data_Warehouse.ipynb
-├── star_schema/
-│   └── schema.png
-├── screenshots/
-│   ├── synapse_workspace.png
-│   ├── external_tables.png
-│   ├── analytical_queries.png
-│   └── warehouse_tables.png
-```
+- `Project_Data_Warehouse.ipynb` – Complete implementation of the Azure data warehouse project.
+- `schema.png` – Star schema used for dimensional modeling.
 
 ---
 
